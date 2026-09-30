@@ -1,5 +1,5 @@
 /*=========================PRODUCT DATA=========================*/
-const products = {"Mobile Phone 1": 15000,"Mobile Phone 2": 20000,"Headphone 1": 1499,"Headphone 2": 2499,"Rice": 450,"Curd": 90,"Milk": 60,"Chicken": 250,"Eggs": 100,"Dark Chocolate": 150,"Cricket Kit": 3999,"Chess Kit": 799,"Carroms Kit": 2499,"T Shirt 1": 799,"T Shirt 2": 999};
+const products = {"Mobile Phone 1": 15000,"Mobile Phone 1": 20000,"Headphone 1": 1499,"Headphone 2": 2499,"Rice": 450,"Curd": 90,"Milk": 60,"Chicken": 250,"Eggs": 100,"Dark Chocolate": 150,"Cricket Kit": 3999,"Chess Kit": 799,"Carroms Kit": 2499,"T Shirt 1": 799,"T Shirt 2": 999};
 /*=========================SHOPPING CART=========================*/
 let cart = [];
 /*=========================ADD TO CART=========================*/
