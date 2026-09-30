@@ -11,13 +11,12 @@ html
 body 
 {
   font-family: Arial, Helvetica, sans-serif;
-  background-image:
-  linear-gradient( rgba(255, 255, 255, 0.94), rgba(255, 255, 255, 0.94)),url("images/background.jpg");background-size: cover;background-attachment: fixed;color: #222;
+  background-image: linear-gradient( rgba(255, 255, 255, 0.94), rgba(255, 255, 255, 0.94)),url("images/background.jpg");background-size: cover;background-attachment: fixed;color: #222;
 }
 /*=========================HEADER=========================*/
 .header
 {
-  background-image:linear-gradient( rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),url("images/navbar-background.jpg");
+  background-image: linear-gradient( rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),url("images/navbar-background.jpg");
   background-size: cover;
   background-position: center;
   color: white;
@@ -72,7 +71,7 @@ body
   align-items: center;
   text-align: center;
   color: white;
-  background-image:linear-gradient( rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)),url("images/store-background.jpg");
+  background-image: linear-gradient( rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)),url("images/store-background.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -243,8 +242,7 @@ body
     font-weight: bold;
     margin-top: 10px;
 }
-#orderForm input,#orderForm select,
-#orderForm textarea
+#orderForm input,#orderForm select,#orderForm textarea
 {
     width: 100%;
     padding: 12px;
@@ -252,8 +250,7 @@ body
     border-radius: 5px;
     font-size: 15px;
 }
-#orderForm input:focus,#orderForm select:focus,
-#orderForm textarea:focus
+#orderForm input:focus,#orderForm select:focus,#orderForm textarea:focus
 {
     outline: none;
     border-color: #ff9800;
